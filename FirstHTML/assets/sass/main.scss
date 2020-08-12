@@ -1,17 +1,21 @@
+
+
+/*
+	SkyFroop - HAN XIAOJIE
+	Theme:“同心战‘疫’，同‘屏’共振”
+*/
+
+
 @import 'libs/vars';
 @import 'libs/functions';
 @import 'libs/mixins';
 @import 'libs/vendor';
 @import 'libs/breakpoints';
 @import 'libs/html-grid';
-@import 'fontawesome-all.min.css';
+//@import 'fontawesome-all.min.css';
 @import url('https://fonts.googleapis.com/css?family=Open+Sans:400,400italic,600,600italic,800,800italic');
 
-/*
-	Spectral by HTML5 UP
-	html5up.net | @ajlkn
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
-*/
+
 
 // Breakpoints.
 
@@ -24,7 +28,6 @@
 	));
 
 // Reset.
-// Based on meyerweb.com/eric/tools/css/reset (v2.0 | 20110126 | License: public domain)
 
 	html, body, div, span, applet, object,
 	iframe, h1, h2, h3, h4, h5, h6, p, blockquote,
@@ -93,6 +96,7 @@
 		-ms-appearance: none;
 		appearance: none;
 	}
+
 
 /* Basic */
 
