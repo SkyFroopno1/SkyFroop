@@ -26,7 +26,7 @@
 				$body.removeClass('is-preload');
 			}, 100);
 		});
-
+/*
 	// Mobile?
 		if (browser.mobile)
 			$body.addClass('is-mobile');
@@ -41,7 +41,7 @@
 			});
 
 		}
-
+*/
 	// Scrolly.
 		$('.scrolly')
 			.scrolly({
