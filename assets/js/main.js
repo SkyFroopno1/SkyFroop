@@ -27,21 +27,6 @@
 			}, 100);
 		});
 
-	// Mobile?
-		if (browser.mobile)
-			$body.addClass('is-mobile');
-		else {
-
-			breakpoints.on('>medium', function() {
-				$body.removeClass('is-mobile');
-			});
-
-			breakpoints.on('<=medium', function() {
-				$body.addClass('is-mobile');
-			});
-
-		}
-
 	// Scrolly.
 		$('.scrolly')
 			.scrolly({
