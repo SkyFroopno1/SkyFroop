@@ -1,11 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="0d52bc58-a952-415c-8eb6-2cbebd1f2590" name="默认的" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -16,10 +41,140 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/FirstHTML/images" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="模块" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\HP\Documents\GitHub\SkyFroop\FirstHTML\images" />
+      <recent name="C:\Users\HP\Documents\GitHub\SkyFroop\中公杯练习" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Tomcat 8.5.20" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Remote" APPLICATION_SERVER_NAME="Tomcat 8.5.20" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="LOCAL" value="false" />
+      <deployment />
+      <server-settings>
+        <data>
+          <option name="targets">
+            <list>
+              <WatchedTargetModelImpl>
+                <option name="name" value="CONTEXT_XML" />
+                <option name="transportStagingTarget">
+                  <TransportTarget>
+                    <option name="id" value="bcd4faa0-b60a-400e-b396-4736d9afbbf7" />
+                    <id>bcd4faa0-b60a-400e-b396-4736d9afbbf7</id>
+                  </TransportTarget>
+                </option>
+                <option name="watchedLocalPath" value="" />
+                <watched-path />
+                <name>CONTEXT_XML</name>
+                <transport-target>
+                  <TransportTarget>
+                    <option name="id" value="bcd4faa0-b60a-400e-b396-4736d9afbbf7" />
+                    <id>bcd4faa0-b60a-400e-b396-4736d9afbbf7</id>
+                  </TransportTarget>
+                </transport-target>
+              </WatchedTargetModelImpl>
+              <StagingTargetModelImpl>
+                <option name="name" value="STAGING" />
+                <option name="stagingRemotePath" value="" />
+                <option name="transportStagingTarget">
+                  <TransportTarget>
+                    <option name="id" value="9473f361-dd70-4911-89b1-c9f11e0cb947" />
+                    <id>9473f361-dd70-4911-89b1-c9f11e0cb947</id>
+                  </TransportTarget>
+                </option>
+                <staging-path />
+                <name>STAGING</name>
+                <transport-target>
+                  <TransportTarget>
+                    <option name="id" value="9473f361-dd70-4911-89b1-c9f11e0cb947" />
+                    <id>9473f361-dd70-4911-89b1-c9f11e0cb947</id>
+                  </TransportTarget>
+                </transport-target>
+              </StagingTargetModelImpl>
+            </list>
+          </option>
+          <option name="transportHostId" />
+        </data>
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="TOMCAT_LOCALHOST_LOG_ID" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="62360" />
+        <option name="LOCAL" value="false" />
+      </RunnerSettings>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Remote" APPLICATION_SERVER_NAME="Tomcat 8.5.20" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="LOCAL" value="false" />
+      <deployment />
+      <server-settings>
+        <data>
+          <option name="targets">
+            <list>
+              <WatchedTargetModelImpl>
+                <option name="name" value="CONTEXT_XML" />
+                <option name="transportStagingTarget">
+                  <TransportTarget>
+                    <option name="id" value="bcd4faa0-b60a-400e-b396-4736d9afbbf7" />
+                    <id>bcd4faa0-b60a-400e-b396-4736d9afbbf7</id>
+                  </TransportTarget>
+                </option>
+                <option name="watchedLocalPath" value="" />
+                <watched-path />
+                <name>CONTEXT_XML</name>
+                <transport-target>
+                  <TransportTarget>
+                    <option name="id" value="bcd4faa0-b60a-400e-b396-4736d9afbbf7" />
+                    <id>bcd4faa0-b60a-400e-b396-4736d9afbbf7</id>
+                  </TransportTarget>
+                </transport-target>
+              </WatchedTargetModelImpl>
+              <StagingTargetModelImpl>
+                <option name="name" value="STAGING" />
+                <option name="stagingRemotePath" value="" />
+                <option name="transportStagingTarget">
+                  <TransportTarget>
+                    <option name="id" value="9473f361-dd70-4911-89b1-c9f11e0cb947" />
+                    <id>9473f361-dd70-4911-89b1-c9f11e0cb947</id>
+                  </TransportTarget>
+                </option>
+                <staging-path />
+                <name>STAGING</name>
+                <transport-target>
+                  <TransportTarget>
+                    <option name="id" value="9473f361-dd70-4911-89b1-c9f11e0cb947" />
+                    <id>9473f361-dd70-4911-89b1-c9f11e0cb947</id>
+                  </TransportTarget>
+                </transport-target>
+              </StagingTargetModelImpl>
+            </list>
+          </option>
+          <option name="transportHostId" />
+        </data>
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="TOMCAT_LOCALHOST_LOG_ID" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="62360" />
+        <option name="LOCAL" value="false" />
+      </RunnerSettings>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -35,21 +190,77 @@
       <workItem from="1597239440347" duration="1970000" />
       <workItem from="1597243143527" duration="200000" />
       <workItem from="1597278262528" duration="21537000" />
-      <workItem from="1597367840819" duration="2168000" />
+      <workItem from="1597367840819" duration="5596000" />
+      <workItem from="1597397324320" duration="4000" />
+      <workItem from="1597406508420" duration="1196000" />
+      <workItem from="1597585382425" duration="6000" />
+      <workItem from="1597644571704" duration="2079000" />
+      <workItem from="1597732390106" duration="3233000" />
+      <workItem from="1597847540173" duration="1403000" />
+      <workItem from="1597904178356" duration="11287000" />
+      <workItem from="1597999694472" duration="5419000" />
+      <workItem from="1598074743449" duration="1980000" />
+      <workItem from="1598077007022" duration="7020000" />
+      <workItem from="1598190617440" duration="2613000" />
+      <workItem from="1598236701863" duration="20022000" />
+      <workItem from="1598262906427" duration="113000" />
+      <workItem from="1598418822377" duration="2232000" />
+      <workItem from="1598866225406" duration="1087000" />
+      <workItem from="1598867967994" duration="334000" />
+      <workItem from="1598968763834" duration="283000" />
+      <workItem from="1598972799479" duration="45000" />
+      <workItem from="1599016018455" duration="3220000" />
+      <workItem from="1599205554077" duration="53000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="377" y="171" width="1429" height="993" key="dock-window-1" timestamp="1597325748682">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="377" y="171" width="1429" height="993" key="dock-window-1/0.0.1920.1080/1920.-806.1440.2560@1920.-806.1440.2560" timestamp="1597325748682" />
-    <state x="2303" y="-201" width="672" height="678" key="search.everywhere.popup" timestamp="1597235571919">
+    <state x="2386" y="666" key="#Tomcat_Server" timestamp="1597672776672">
       <screen x="1920" y="-806" width="1440" height="2560" />
     </state>
-    <state x="2303" y="-201" width="672" height="678" key="search.everywhere.popup/0.0.1920.1080/1920.-806.1440.2560@1920.-806.1440.2560" timestamp="1597235571919" />
+    <state x="2386" y="666" key="#Tomcat_Server/0.0.1920.1080/1920.-806.1440.2560@1920.-806.1440.2560" timestamp="1597672776672" />
+    <state x="2066" y="425" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1597672805116">
+      <screen x="1920" y="-806" width="1440" height="2560" />
+    </state>
+    <state x="2066" y="425" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080/1920.-806.1440.2560@1920.-806.1440.2560" timestamp="1597672805116" />
+    <state x="2115" y="342" key="#项目结构" timestamp="1597644688178">
+      <screen x="1920" y="-806" width="1440" height="2560" />
+    </state>
+    <state x="2115" y="342" key="#项目结构/0.0.1920.1080/1920.-806.1440.2560@1920.-806.1440.2560" timestamp="1597644688178" />
+    <state x="2392" y="511" key="FileChooserDialogImpl" timestamp="1597672774135">
+      <screen x="1920" y="-806" width="1440" height="2560" />
+    </state>
+    <state x="2392" y="511" key="FileChooserDialogImpl/0.0.1920.1080/1920.-806.1440.2560@1920.-806.1440.2560" timestamp="1597672774135" />
+    <state x="2416" y="-833" width="1188" height="1168" maximized="true" key="dock-window-1" timestamp="1598261383570">
+      <screen x="1920" y="-806" width="1440" height="2560" />
+    </state>
+    <state x="2416" y="-833" width="1188" height="1168" maximized="true" key="dock-window-1/0.0.1920.1080/1920.-806.1440.2560@1920.-806.1440.2560" timestamp="1598261383570" />
+    <state x="499" y="-17" width="1166" height="1168" maximized="true" key="dock-window-2" timestamp="1598113689207">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="499" y="-17" width="1166" height="1168" maximized="true" key="dock-window-2/0.0.1920.1080/1920.-806.1440.2560@1920.-806.1440.2560" timestamp="1598113689207" />
+    <state x="2296" y="217" width="672" height="677" key="run.anything.popup" timestamp="1598254312562">
+      <screen x="1920" y="-806" width="1440" height="2560" />
+    </state>
+    <state x="2296" y="217" width="672" height="677" key="run.anything.popup/0.0.1920.1080/1920.-806.1440.2560@1920.-806.1440.2560" timestamp="1598254312562" />
+    <state x="2303" y="-201" width="672" height="678" key="search.everywhere.popup" timestamp="1599019090859">
+      <screen x="1920" y="-806" width="1440" height="2560" />
+    </state>
+    <state x="2303" y="-201" width="672" height="678" key="search.everywhere.popup/0.0.1920.1080/1920.-806.1440.2560@1920.-806.1440.2560" timestamp="1599019090859" />
   </component>
 </project>
